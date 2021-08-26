@@ -1,16 +1,9 @@
-# ponto
+# Registrador de ponto 
 
-A new Flutter project.
+Este é um projeto pessoal que tem como objetivo realizar a contabolização de horas trabalhadas, horas extras, etc. É desenvolvido usando a tecnologia Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Point Register
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a personal project whose objective was to count the hours worked, overtime, etc. Developed using Flutter technology.
