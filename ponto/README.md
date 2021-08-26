@@ -1,6 +1,6 @@
 # Registrador de ponto 
 
-Este é um projeto pessoal que tem como objetivo realizar a contabolização de horas trabalhadas, horas extras, etc. É desenvolvido usando a tecnologia Flutter.
+Este é um projeto pessoal que tem como objetivo realizar a contabilização de horas trabalhadas, horas extras, etc. É desenvolvido usando a tecnologia Flutter.
 
 
 
